@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringTemplatesApplication
+open class SpringTemplatesApplication
 
 fun main(args: Array<String>) {
 	runApplication<SpringTemplatesApplication>(*args)
